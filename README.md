@@ -16,7 +16,7 @@ Notes while running the game:
 
 Run following commands in terminal:
 1) To clone git repository.
-=> git clone -b starter-code 
+=> git clone -b starter-code https://github.com/Yukta-Koli/Blockchain-Game blockchain_game
 
 2) TO install all the dependencies.
 => npm install
