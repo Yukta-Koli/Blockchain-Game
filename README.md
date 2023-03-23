@@ -50,8 +50,8 @@ Installations Needed:
 
 Create Ganache Network on MetaMask:
 1) Add Network Manually
-2) Network Name: Ganache
-   Network RPC URL: use RPC Server URL from Ganache (e.g. => HTTP://127.0.0.1:7545)
-   Chain ID: 1337 (It is default ID of Ganache)
+2) (a) Network Name: Ganache
+   (b) Network RPC URL: use RPC Server URL from Ganache (e.g. => HTTP://127.0.0.1:7545)
+   (C) Chain ID: 1337 (It is default ID of Ganache)
 3) Save the Network 
 
